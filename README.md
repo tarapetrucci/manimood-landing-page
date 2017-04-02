@@ -4,5 +4,5 @@
 `npm i`
 
 ## Run for Development
-```cd WHERE THE PROJECT IS
-npm start```
+```cd WHERE THE PROJECT IS```
+```npm start```
