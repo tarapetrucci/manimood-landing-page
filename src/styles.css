@@ -2,7 +2,11 @@ body{
   background-color: black;
 }
 
-img
+#logo {
+  margin: 0 auto;
+  display: block;
+}
+
 h1{
   color: pink;
 }
