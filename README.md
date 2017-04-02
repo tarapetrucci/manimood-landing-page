@@ -1,3 +1,5 @@
+![alt tag](src/assets/logo.png)
+
 # manimood
 
 ## Install the app
