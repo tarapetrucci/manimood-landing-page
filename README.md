@@ -1,7 +1,8 @@
 # manimood
 
 ## Install the app
-npm i
+`npm i`
 
 ## Run for Development
-npm start
+`cd WHERE THE PROJECT IS`
+`npm start`
