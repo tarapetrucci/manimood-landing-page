@@ -3,6 +3,6 @@
 ## Install the app
 `npm i`
 
-## Run for Development
+## Start Developing
 `cd WHERE-THE-PROJECT-IS` <br>
 `npm start`
