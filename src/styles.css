@@ -4,10 +4,12 @@ body{
 }
 
 #logo {
-  margin: 0 auto;
   display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
 }
-
 
 .main-content{
   color: white;
