@@ -1,5 +1,6 @@
 body{
   background-color: black;
+  font-family: Roboto;
 }
 
 #logo {
@@ -9,4 +10,19 @@ body{
 
 h1{
   color: pink;
+}
+
+h2{
+  color: white;
+}
+
+#mc_embed_signup{
+  border: 2px solid blue;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+}
+
+.mc_label{
+  display: block;
 }
